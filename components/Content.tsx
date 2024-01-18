@@ -9,7 +9,7 @@ const Content = () => {
       <div className="p-10 md:px-[15rem] my-20 flex flex-col justify-center">
         <h1 className="text-4xl font-bold font-mono">Hello();</h1>
         <p className="text-4xl pt-2 font-mono">
-          I am <span>Darshit Mistry</span>
+          I am <span>Darshit</span>
         </p>
         <p className="mt-5">
           I have very much cleared the basics of React, Tailwind CSS, Next.js,
@@ -32,4 +32,4 @@ const Content = () => {
   );
 };
 
-export default Content;
+export default Content;45
