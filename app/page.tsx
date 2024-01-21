@@ -1,7 +1,7 @@
 import Content from '@/components/Content'
+import Join from '@/components/Join'
 import Navbar from '@/components/Navbar'
 import Services from '@/components/Services'
-import React from 'react'
 
 const Page = () => {
   return (
@@ -9,6 +9,7 @@ const Page = () => {
       <Navbar/>
       <Content/>
       <Services/>
+      <Join/>
     </>
 
     )

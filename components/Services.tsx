@@ -14,14 +14,14 @@ const Services = () => {
   return (
     <div className="mt-20 md:mt-[8rem] bg-black w-full h-[30rem] md:[35rem] flex">
       <div className="bg-white justify-center flex items-center">
-        <h1 className="-rotate-90 flex justify-center items-center">
+        <h1 className="-rotate-90 flex justify-center items-center gap-3">
           <PenLine />
           Services
         </h1>
       </div>
       <div className="px-5 md:px-10 md:py-32 py-5 font-extrabold flex justify-between flex-col md:flex-row md:gap-[20rem] ">
         <div className="text-white">
-          <h1 className="text-4xl md:text-5xl leading-tight">Service we can help You .</h1>
+          <h1 className="text-4xl md:text-5xl leading-tight">Service I can help You .</h1>
           <p className="font-sm text-wrap mt-2 text-muted/45">
             passion for creating state-of-the-art digital solutions.
           </p>
